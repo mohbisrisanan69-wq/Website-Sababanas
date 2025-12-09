@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<!-- saved from url=(0084)file:///C:/Users/Rico%20Yohansyah/OneDrive/Desktop/SABABANAS/sababanas.html#artikel1 -->
+<html lang="id"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PON PES AL-FATTAHIYYAH</title>
+    <style>
+        /* Reset dasar untuk konsistensi */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        /* Header */
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        /* Konten utama */
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        article {
+            margin-bottom: 30px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 20px;
+        }
+
+        article h2 {
+            color: #4CAF50;
+            margin-top: 0;
+        }
+
+        article p {
+            line-height: 1.6;
+        }
+
+        article a {
+            color: #4CAF50;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        article a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SABABANAS AL FATTAHIYYAH</h1>
+        <p>Syawir Bareng Bahas Nahwu &amp; Shorof </p>
+    </header>
+
+    <main>
+        <article>
+            <h2>“Mengapa أما بعد  ”</h2>
+            <p><em>#Deskripsi Masalah 30 Novenber 2025</em></p>
+            <p>        Nasyith seorang alumni santri mengikuti resepsi pernikahan mantannya.Setelah Nasyith mengambil hidangan yang telah di  sediakan,dia duduk di kursi untuk mendengarkan sang MC.Ketika sang MC membaca pembukaan dan sampai pada kalimat أما بعد Nasyithpun mengingat masa lalunya.Disaat ia masih di pondok ia selalu menemukan lafadz أما بعد di setiap kitab kuning yang ia baca.Tetapi ia masih bingung tentang apa itu kalimat  أما بعد .</p>
+        
+		</article>
+
+       <article>
+            <h2>Problematika ke-1</h2>
+            <p><em>1.” أما”adalah kalimat apa?Bagaimana cara bacanya!</em></p>
+            <p>	” أما”adalah kalimat huruf yang asalnya dari lafad “مهما يكون من شيء موجودا بعد بسم الله والحمد لله”
+.Nah ” أما” adalah huruf syartiah berfungsi untuk memulai perincian dan di dalamnya terdapat fi’il syarat berupa lafad “يكون” dan fi’il jawab  “الكلام بعده” yaitu kalam/ucapan setelahnya, Jawabnya harus memakai huruf “فَـ”.</p>
+             <p style="text-align: right;">تسهيل نيل الأماني في شرح عوامل الجرجاني. كوراسان.2  📜</p>
+			<p style="text-align: right;">قوله أما الخ هي حرف شرط غير جازم نائبة عن مهما بعد ظرف في محل نصب متعلق بمحذوف معمول لفعل الشرط المحذوف تقديره مهما يكن من شي موجودا بعد البسملة أو متعلق بجواب الشرط وهو قوله فيقول أى مهما يكن من شيء فيقول بعد البسملة، المرتجى أى المؤمل نيل مفعول المرتجي وهو مصدر نال الشيء أي أصابه والأماني جمع أمنية بضم الهمزة وتشديد الياء أى الحاجة . والفطائي نسبة إلى فطان وأصل طالها ناء بلدة من بلاد ملا يو ظهر من أبنائها فضلاء نبلاء نجباء وكانت قديما تحت دولة من دولهم العظيمة . وقوله الجناح بضم الجيم الأئم أى الذنب والنجاح الظفر بالمقصود.</p>
+			<p style="text-align: right;">
+     الكفراوي في شرح الأجرومية.كوراسان.ص 4📜</p>
+	        <p style="text-align: right;">قوله أمابعد الاتيان بها أولى من و بعد لانها الواقعة منه صلى الله عليه وسلم لما صح أنه خطب فقال أما بعد أخرجه الشيخان ومن يأت بالواو ير أن المدار على بعد فيختصر وهي في بعض النسخ أيضا و أما شر طية أي نائبة عن اسم الشرط وهو مهما و عن فعله أيضا وهو يكن وبعد ظرف مبني على الضم في محل نصب لنية معنى المضاف اليه أي بعد ما تقدم من البسملة وما بعدها و المرادينية المعنى ملاحظة معنى المضاف اليه وسماء معبرا عنه بأي عبارة كانت واى لفظ كان فيكون خصوص اللفظ غير ملتفت اليه بخلاف نية لفظ المضاف اليه واتعالم تقتض الاضافة مع نية المعنى الاعراب لضعفها بخلافها عند نية اللفظ القومها بنية لفظ المضاف اليه وانما بقيت لأنها أشبيت احرف الجواب في الاستغناء مها عما بعدها و بنيت على حركة لئلا يلزم التقاء الساكنين وكان بناؤها على الضم لانه لم يكن لها حال الاعراب فكملت لها الحركات به وهي للانتقال من اسلوب الى اسلوب آخر فلا تكون الا بين امرين متغاير بن.</p>
+            <p style="text-align: right;">عاقل  في شرح الفية ابن مالك ابن📜</p>
+			<p style="text-align: right;">وأما أمّا فحرفٌ وضع للتفصيل، ويحتاج جوابُه إلى الفاءِ وجوباً, وتكون لتوكيد الكلام أيضاً، ويُؤتى بها لِتَقْسِيمِ الكلام إلى أقسام، كقولك أمّا زيدٌ فقائمٌ، وأمّا عمروٌ فنائمٌ. ومعنى التفصيل أن تُذْكَرَ جملةٌ مجملةٌ، ثم تُفَصَّلَ بذكر الأقسام بعدها </p>
+        </article>
+
+        <article>
+            <h2>Problematika ke-2</h2>
+            <p><em>2.” بعد”adalah kalimat?Bagaimana cara bacanya!</em></p>
+            <p>.” بعد”adalah kalimat isim(kata benda),khususnya isim dhorof zaman(keterangan waktu).</p>
+            <p style="text-align: right;">الكفراوي في شرح الأجرومية.كوراسان.ص 4📜 </p>
+			<p style="text-align: right;">قوله أمابعد الاتيان بها أولى من و بعد لانها الواقعة منه صلى الله عليه وسلم لما صح أنه خطب فقال أما بعد أخرجه الشيخان ومن يأت بالواو ير أن المدار على بعد فيختصر وهي في بعض النسخ أيضا و أما شر طية أي نائبة عن اسم الشرط وهو مهما و عن فعله أيضا وهو يكن وبعد ظرف مبني على الضم في محل نصب لنية معنى المضاف اليه أي بعد ما تقدم من البسملة ....الخ</p>
+        </article>
+		
+		<article>
+            <h2>Problematika ke-3</h2>
+            <p><em>3.Apa itu kalimat “أما بعد” apakah suatu susunan atau satu kalimat?</em></p>
+            <p>.“أما بعد”Adalah sebuah susunan kalimat yang aslinya berasal dari lafad “مهما يكون من شيء موجودا بعد بسم الله والحمد لله ”</p>
+           
+        </article>
+		
+		 <article>
+            <h2>Penjelasan Tambahan</h2>
+            <p>📍Asal usul lafadz أما بعد menurut kitab Al Kafrawi:  أما بعد adalah lafaz yang muncul dari Nabi ﷺ ketika ada riwayat sahih bahwa beliau berkhutbah lalu mengucapkan Amma Ba’d. (Hadis ini) diriwayatkan oleh Asy-Syaikhan (Imam Bukhari dan Imam Muslim).
+      HADISTH: (Kitab Al-Adab) Hadith 4955
+      
+</p>
+            <p>.📍Amma ba'd (أَمَّا بَعْدُ): Ini adalah ungkapan yang biasa digunakan dalam khotbah atau surat oleh Nabi ﷺ dan orang Arab, maknanya adalah "Adapun selanjutnya" atau "Setelah pujian dan sanjungan ini", sebagai transisi dari pembukaan ke isi utama khotbah.</p>
+           
+        </article>
+    </main>
+
+    <footer>
+        <p>© 30 NOVEMBER 2025. SABABANAS.</p>
+    </footer>
+
+</body></html>
