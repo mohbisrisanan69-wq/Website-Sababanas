@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+
 <!-- saved from url=(0084)file:///C:/Users/Rico%20Yohansyah/OneDrive/Desktop/SABABANAS/sababanas.html#artikel1 -->
-<html lang="id"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PON PES AL-FATTAHIYYAH</title>
